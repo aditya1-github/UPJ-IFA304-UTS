@@ -2,7 +2,7 @@
 Repositori project mobile apps untuk persyaratan UTS mata kuliah Pemprograman Bergerak.
 
 Project 001
-  - Berisikan program untuk Soal no. 1 dengan halaman sebagai berikut
+  - Berisikan program untuk Soal no. 1 dengan halaman sebagai berikut :
     1. Halaman Login. 
     2. Halaman Home.
     3. Halaman Menghitung Luas Lingkaran.
@@ -15,4 +15,8 @@ Project 001
 
 
 Project 002
-  - Berisikan program untuk Soal no.2 dengan topik "Komunitas pencinta hewan kucing"
+  - Berisikan program untuk Soal no.2 dengan topik "Komunitas pencinta hewan kucing" dengan halaman sebagai berikut :
+    1. Halaman Home
+    2. Halaman Daftar Anggota
+    3. Halaman Acara
+    4. Halaman Breed
